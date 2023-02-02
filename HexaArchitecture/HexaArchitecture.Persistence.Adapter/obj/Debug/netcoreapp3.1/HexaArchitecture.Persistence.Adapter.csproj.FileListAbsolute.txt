@@ -1,0 +1,16 @@
+D:\Projects\RND\HexaArchitecture\HexaArchitecture\HexaArchitecture.Persistence.Adapter\bin\Debug\netcoreapp3.1\HexaArchitecture.Persistence.Adapter.deps.json
+D:\Projects\RND\HexaArchitecture\HexaArchitecture\HexaArchitecture.Persistence.Adapter\bin\Debug\netcoreapp3.1\HexaArchitecture.Persistence.Adapter.runtimeconfig.json
+D:\Projects\RND\HexaArchitecture\HexaArchitecture\HexaArchitecture.Persistence.Adapter\bin\Debug\netcoreapp3.1\HexaArchitecture.Persistence.Adapter.runtimeconfig.dev.json
+D:\Projects\RND\HexaArchitecture\HexaArchitecture\HexaArchitecture.Persistence.Adapter\bin\Debug\netcoreapp3.1\HexaArchitecture.Persistence.Adapter.dll
+D:\Projects\RND\HexaArchitecture\HexaArchitecture\HexaArchitecture.Persistence.Adapter\bin\Debug\netcoreapp3.1\HexaArchitecture.Persistence.Adapter.pdb
+D:\Projects\RND\HexaArchitecture\HexaArchitecture\HexaArchitecture.Persistence.Adapter\bin\Debug\netcoreapp3.1\HexaArchitecture.DomainApi.dll
+D:\Projects\RND\HexaArchitecture\HexaArchitecture\HexaArchitecture.Persistence.Adapter\bin\Debug\netcoreapp3.1\HexaArchitecture.DomainApi.pdb
+D:\Projects\RND\HexaArchitecture\HexaArchitecture\HexaArchitecture.Persistence.Adapter\obj\Debug\netcoreapp3.1\HexaArchitecture.Persistence.Adapter.csproj.AssemblyReference.cache
+D:\Projects\RND\HexaArchitecture\HexaArchitecture\HexaArchitecture.Persistence.Adapter\obj\Debug\netcoreapp3.1\HexaArchitecture.Persistence.Adapter.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\RND\HexaArchitecture\HexaArchitecture\HexaArchitecture.Persistence.Adapter\obj\Debug\netcoreapp3.1\HexaArchitecture.Persistence.Adapter.AssemblyInfoInputs.cache
+D:\Projects\RND\HexaArchitecture\HexaArchitecture\HexaArchitecture.Persistence.Adapter\obj\Debug\netcoreapp3.1\HexaArchitecture.Persistence.Adapter.AssemblyInfo.cs
+D:\Projects\RND\HexaArchitecture\HexaArchitecture\HexaArchitecture.Persistence.Adapter\obj\Debug\netcoreapp3.1\HexaArchitecture.Persistence.Adapter.csproj.CoreCompileInputs.cache
+D:\Projects\RND\HexaArchitecture\HexaArchitecture\HexaArchitecture.Persistence.Adapter\obj\Debug\netcoreapp3.1\HexaArchitecture.Persistence.Adapter.csproj.CopyComplete
+D:\Projects\RND\HexaArchitecture\HexaArchitecture\HexaArchitecture.Persistence.Adapter\obj\Debug\netcoreapp3.1\HexaArchitecture.Persistence.Adapter.dll
+D:\Projects\RND\HexaArchitecture\HexaArchitecture\HexaArchitecture.Persistence.Adapter\obj\Debug\netcoreapp3.1\HexaArchitecture.Persistence.Adapter.pdb
+D:\Projects\RND\HexaArchitecture\HexaArchitecture\HexaArchitecture.Persistence.Adapter\obj\Debug\netcoreapp3.1\HexaArchitecture.Persistence.Adapter.genruntimeconfig.cache

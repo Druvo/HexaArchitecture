@@ -1,0 +1,73 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33214.272
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HexaArchitecture", "HexaArchitecture\HexaArchitecture\HexaArchitecture.csproj", "{E0C88D7E-47EC-4A67-9F87-470C82F70808}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HexaArchitecture.Domain", "HexaArchitecture\HexaArchitecture.Domain\HexaArchitecture.Domain.csproj", "{563E41D9-1E38-4CB6-9FB9-C705DC74616B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HexaArchitecture.DomainApi", "HexaArchitecture\HexaArchitecture.DomainApi\HexaArchitecture.DomainApi.csproj", "{6FC65063-780E-4EE9-9DF6-64299DF069D5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HexaArchitecture.Persistence.Adapter", "HexaArchitecture\HexaArchitecture.Persistence.Adapter\HexaArchitecture.Persistence.Adapter.csproj", "{75BF1056-6E30-4466-A2B2-EAEDF583A761}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HexaArchitecture.RestAdapter", "HexaArchitecture\HexaArchitecture.RestAdapter\HexaArchitecture.RestAdapter.csproj", "{1686516E-5F00-4A58-BE32-AE643BAEDD8A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HexaArchitecture.Domain.UnitTest", "HexaArchitecture\HexaArchitecture.Domain.UnitTest\HexaArchitecture.Domain.UnitTest.csproj", "{A75C80ED-B905-4000-84B8-23145F84ABFF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HexaArchitecture.DomainApi.UnitTest", "HexaArchitecture\HexaArchitecture.DomainApi.UnitTest\HexaArchitecture.DomainApi.UnitTest.csproj", "{BBCE1F3B-85A1-43EF-A794-94C4EA55E35F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HexaArchitecture.Persistence.Adapter.UnitTest", "HexaArchitecture\HexaArchitecture.Persistence.Adapter.UnitTest\HexaArchitecture.Persistence.Adapter.UnitTest.csproj", "{CD54E4F5-DFA0-46A3-BC79-7988126CEDC3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HexaArchitecture.RestAdapter.UnitTest", "HexaArchitecture\HexaArchitecture.RestAdapter.UnitTest\HexaArchitecture.RestAdapter.UnitTest.csproj", "{1D37CEA8-DCF6-4179-A133-771ED07A5602}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E0C88D7E-47EC-4A67-9F87-470C82F70808}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E0C88D7E-47EC-4A67-9F87-470C82F70808}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E0C88D7E-47EC-4A67-9F87-470C82F70808}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E0C88D7E-47EC-4A67-9F87-470C82F70808}.Release|Any CPU.Build.0 = Release|Any CPU
+		{563E41D9-1E38-4CB6-9FB9-C705DC74616B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{563E41D9-1E38-4CB6-9FB9-C705DC74616B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{563E41D9-1E38-4CB6-9FB9-C705DC74616B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{563E41D9-1E38-4CB6-9FB9-C705DC74616B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6FC65063-780E-4EE9-9DF6-64299DF069D5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6FC65063-780E-4EE9-9DF6-64299DF069D5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6FC65063-780E-4EE9-9DF6-64299DF069D5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6FC65063-780E-4EE9-9DF6-64299DF069D5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{75BF1056-6E30-4466-A2B2-EAEDF583A761}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{75BF1056-6E30-4466-A2B2-EAEDF583A761}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{75BF1056-6E30-4466-A2B2-EAEDF583A761}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{75BF1056-6E30-4466-A2B2-EAEDF583A761}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1686516E-5F00-4A58-BE32-AE643BAEDD8A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1686516E-5F00-4A58-BE32-AE643BAEDD8A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1686516E-5F00-4A58-BE32-AE643BAEDD8A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1686516E-5F00-4A58-BE32-AE643BAEDD8A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A75C80ED-B905-4000-84B8-23145F84ABFF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A75C80ED-B905-4000-84B8-23145F84ABFF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A75C80ED-B905-4000-84B8-23145F84ABFF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A75C80ED-B905-4000-84B8-23145F84ABFF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BBCE1F3B-85A1-43EF-A794-94C4EA55E35F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BBCE1F3B-85A1-43EF-A794-94C4EA55E35F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BBCE1F3B-85A1-43EF-A794-94C4EA55E35F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BBCE1F3B-85A1-43EF-A794-94C4EA55E35F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CD54E4F5-DFA0-46A3-BC79-7988126CEDC3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CD54E4F5-DFA0-46A3-BC79-7988126CEDC3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CD54E4F5-DFA0-46A3-BC79-7988126CEDC3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CD54E4F5-DFA0-46A3-BC79-7988126CEDC3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1D37CEA8-DCF6-4179-A133-771ED07A5602}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1D37CEA8-DCF6-4179-A133-771ED07A5602}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1D37CEA8-DCF6-4179-A133-771ED07A5602}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1D37CEA8-DCF6-4179-A133-771ED07A5602}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4414CD7A-A3C6-4FF8-ABE9-81419062A60C}
+	EndGlobalSection
+EndGlobal

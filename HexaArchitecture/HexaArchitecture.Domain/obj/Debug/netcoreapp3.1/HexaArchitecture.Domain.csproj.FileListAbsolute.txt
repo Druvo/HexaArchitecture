@@ -1,0 +1,15 @@
+D:\Projects\RND\HexaArchitecture\HexaArchitecture\HexaArchitecture.Domain\bin\Debug\netcoreapp3.1\HexaArchitecture.Domain.deps.json
+D:\Projects\RND\HexaArchitecture\HexaArchitecture\HexaArchitecture.Domain\bin\Debug\netcoreapp3.1\HexaArchitecture.Domain.dll
+D:\Projects\RND\HexaArchitecture\HexaArchitecture\HexaArchitecture.Domain\bin\Debug\netcoreapp3.1\HexaArchitecture.Domain.pdb
+D:\Projects\RND\HexaArchitecture\HexaArchitecture\HexaArchitecture.Domain\bin\Debug\netcoreapp3.1\HexaArchitecture.DomainApi.dll
+D:\Projects\RND\HexaArchitecture\HexaArchitecture\HexaArchitecture.Domain\bin\Debug\netcoreapp3.1\HexaArchitecture.Persistence.Adapter.dll
+D:\Projects\RND\HexaArchitecture\HexaArchitecture\HexaArchitecture.Domain\bin\Debug\netcoreapp3.1\HexaArchitecture.DomainApi.pdb
+D:\Projects\RND\HexaArchitecture\HexaArchitecture\HexaArchitecture.Domain\bin\Debug\netcoreapp3.1\HexaArchitecture.Persistence.Adapter.pdb
+D:\Projects\RND\HexaArchitecture\HexaArchitecture\HexaArchitecture.Domain\obj\Debug\netcoreapp3.1\HexaArchitecture.Domain.csproj.AssemblyReference.cache
+D:\Projects\RND\HexaArchitecture\HexaArchitecture\HexaArchitecture.Domain\obj\Debug\netcoreapp3.1\HexaArchitecture.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\RND\HexaArchitecture\HexaArchitecture\HexaArchitecture.Domain\obj\Debug\netcoreapp3.1\HexaArchitecture.Domain.AssemblyInfoInputs.cache
+D:\Projects\RND\HexaArchitecture\HexaArchitecture\HexaArchitecture.Domain\obj\Debug\netcoreapp3.1\HexaArchitecture.Domain.AssemblyInfo.cs
+D:\Projects\RND\HexaArchitecture\HexaArchitecture\HexaArchitecture.Domain\obj\Debug\netcoreapp3.1\HexaArchitecture.Domain.csproj.CoreCompileInputs.cache
+D:\Projects\RND\HexaArchitecture\HexaArchitecture\HexaArchitecture.Domain\obj\Debug\netcoreapp3.1\HexaArchitecture.Domain.csproj.CopyComplete
+D:\Projects\RND\HexaArchitecture\HexaArchitecture\HexaArchitecture.Domain\obj\Debug\netcoreapp3.1\HexaArchitecture.Domain.dll
+D:\Projects\RND\HexaArchitecture\HexaArchitecture\HexaArchitecture.Domain\obj\Debug\netcoreapp3.1\HexaArchitecture.Domain.pdb

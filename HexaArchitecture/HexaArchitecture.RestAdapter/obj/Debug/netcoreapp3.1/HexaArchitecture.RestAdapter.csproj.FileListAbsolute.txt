@@ -1,0 +1,15 @@
+D:\Projects\RND\HexaArchitecture\HexaArchitecture\HexaArchitecture.RestAdapter\bin\Debug\netcoreapp3.1\HexaArchitecture.RestAdapter.deps.json
+D:\Projects\RND\HexaArchitecture\HexaArchitecture\HexaArchitecture.RestAdapter\bin\Debug\netcoreapp3.1\HexaArchitecture.RestAdapter.dll
+D:\Projects\RND\HexaArchitecture\HexaArchitecture\HexaArchitecture.RestAdapter\bin\Debug\netcoreapp3.1\HexaArchitecture.RestAdapter.pdb
+D:\Projects\RND\HexaArchitecture\HexaArchitecture\HexaArchitecture.RestAdapter\bin\Debug\netcoreapp3.1\HexaArchitecture.DomainApi.dll
+D:\Projects\RND\HexaArchitecture\HexaArchitecture\HexaArchitecture.RestAdapter\bin\Debug\netcoreapp3.1\HexaArchitecture.Persistence.Adapter.dll
+D:\Projects\RND\HexaArchitecture\HexaArchitecture\HexaArchitecture.RestAdapter\bin\Debug\netcoreapp3.1\HexaArchitecture.Persistence.Adapter.pdb
+D:\Projects\RND\HexaArchitecture\HexaArchitecture\HexaArchitecture.RestAdapter\bin\Debug\netcoreapp3.1\HexaArchitecture.DomainApi.pdb
+D:\Projects\RND\HexaArchitecture\HexaArchitecture\HexaArchitecture.RestAdapter\obj\Debug\netcoreapp3.1\HexaArchitecture.RestAdapter.csproj.AssemblyReference.cache
+D:\Projects\RND\HexaArchitecture\HexaArchitecture\HexaArchitecture.RestAdapter\obj\Debug\netcoreapp3.1\HexaArchitecture.RestAdapter.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\RND\HexaArchitecture\HexaArchitecture\HexaArchitecture.RestAdapter\obj\Debug\netcoreapp3.1\HexaArchitecture.RestAdapter.AssemblyInfoInputs.cache
+D:\Projects\RND\HexaArchitecture\HexaArchitecture\HexaArchitecture.RestAdapter\obj\Debug\netcoreapp3.1\HexaArchitecture.RestAdapter.AssemblyInfo.cs
+D:\Projects\RND\HexaArchitecture\HexaArchitecture\HexaArchitecture.RestAdapter\obj\Debug\netcoreapp3.1\HexaArchitecture.RestAdapter.csproj.CoreCompileInputs.cache
+D:\Projects\RND\HexaArchitecture\HexaArchitecture\HexaArchitecture.RestAdapter\obj\Debug\netcoreapp3.1\HexaArchitecture.RestAdapter.csproj.CopyComplete
+D:\Projects\RND\HexaArchitecture\HexaArchitecture\HexaArchitecture.RestAdapter\obj\Debug\netcoreapp3.1\HexaArchitecture.RestAdapter.dll
+D:\Projects\RND\HexaArchitecture\HexaArchitecture\HexaArchitecture.RestAdapter\obj\Debug\netcoreapp3.1\HexaArchitecture.RestAdapter.pdb
